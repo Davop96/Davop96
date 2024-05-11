@@ -6,12 +6,12 @@ May the code be useful for you! 👋
 
 ## About Me
 
-🌱 I'm currenly learning *C Programming Language* in 42School, in Málaga.\
+🌱 I'm currenly learning *C Programming Language* in 42 School, in Málaga.\
 💡 I like to explore new technologies and develop software solutions.
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dbohoyo-?1337Badge=off&UM6P=off" alt="dbohoyo-'s 42 stats" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,github,gmail,java,kali,linkedin,linux,mint,powershell,py,ubuntu,vscode,windows)](https://skillicons.dev)
 
