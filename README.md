@@ -4,10 +4,11 @@
 
 May the code be useful for you! 👋
 
+
 ## About Me
 
-🌱 I'm currenly learning *C Programming Language* in 42School, in Málaga.
-💡 I like to explore new technologies and develop software solutions.
+🌱 &nbsp;I'm currenly learning *C Programming Language* in 42School, in Málaga.
+💡 &nbsp;I like to explore new technologies and develop software solutions.
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dbohoyo-?1337Badge=off&UM6P=off" alt="dbohoyo-'s 42 stats" /></a>
 
