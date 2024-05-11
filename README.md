@@ -15,7 +15,7 @@ May the code be useful for you! 👋
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,github,gmail,java,kali,linkedin,linux,mint,powershell,py,ubuntu,vscode,windows)](https://skillicons.dev)
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p>
 <a href="https://github.com/Davop96">
