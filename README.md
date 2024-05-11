@@ -8,7 +8,7 @@ May the code be useful for you!
 
 ## About Me <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
-🌱 I'm currenly learning *C Programming Language* in 42 School, in Málaga.\
+🌱 I'm currenly learning C Programming Language in 42 School, in Málaga.\
 💡 I like to explore new technologies and develop software solutions.\
 👯 I’m looking forward to collaborate on open source projects.\
 ✔ Ask me about anything, I'm glad to help!
