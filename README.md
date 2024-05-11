@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Davop96/Davop96/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hi , I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Cybersecurity" alt="Typing SVG" /></a>
@@ -28,7 +28,7 @@ May the code be useful for you!
 </a>
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Davop96/Davop96/raw/main/assets/line-neon.gif" width="100%">
 
 -----
 Credits: [David Bohoyo Palencia](https://github.com/Davop96)
