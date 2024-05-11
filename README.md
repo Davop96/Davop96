@@ -2,13 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Cybersecurity" alt="Typing SVG" /></a>
 <p align="center">
 
+
 May the code be useful for you! 👋
 
 
 ## About Me
 
-🌱 &nbsp;I'm currenly learning *C Programming Language* in 42School, in Málaga.
-💡 &nbsp;I like to explore new technologies and develop software solutions.
+🌱 I'm currenly learning *C Programming Language* in 42School, in Málaga.\
+💡 I like to explore new technologies and develop software solutions.\
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dbohoyo-?1337Badge=off&UM6P=off" alt="dbohoyo-'s 42 stats" /></a>
 
