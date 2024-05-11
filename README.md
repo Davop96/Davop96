@@ -12,6 +12,7 @@ May the code be useful for you! 👋
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/dbohoyo-?1337Badge=off&UM6P=off" alt="dbohoyo-'s 42 stats" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,github,gmail,java,kali,linkedin,linux,mint,powershell,py,ubuntu,vscode,windows)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
