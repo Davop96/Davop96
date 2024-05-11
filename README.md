@@ -6,7 +6,7 @@
 
 May the code be useful for you!
 
-<h2 ## About Me <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
+## About Me <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 🌱 I'm currenly learning *C Programming Language* in 42 School, in Málaga.\
 💡 I like to explore new technologies and develop software solutions.\
